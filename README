@@ -1,0 +1,9 @@
+* start graphiql server
+  * to run graphql queries
+  * npm run dev
+  * http://localhost:4000/graphql
+* start json-server
+  * REST api server
+  * npm run json:server
+  * sends REST cmd to http://localhost:3000/users
+  * sends REST cmd to http://localhost:3000/companies
